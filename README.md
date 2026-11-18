@@ -1,16 +1,12 @@
-## Hi there 👋
+## Objetivos
+- Passar de ano;
+- Ter boas notas;
+- Fazer a faculdade dos meus sonhos;
+- Evoluir cada vez mais profissionalmente;
+- Trabalhar para ter muito sucesso.
 
-<!--
-**ellengsantos10-prog/ellengsantos10-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas de interesse
+- Tecnologia
+- Direito
+- Design
+- Desenvolvimento de sistemas.
